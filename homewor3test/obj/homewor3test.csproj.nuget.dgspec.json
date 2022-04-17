@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3test\\homewor3test\\homewor3test.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3witharray\\homewor3test\\homewor3test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3test\\homewor3test\\homewor3test.csproj": {
+    "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3witharray\\homewor3test\\homewor3test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3test\\homewor3test\\homewor3test.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3witharray\\homewor3test\\homewor3test.csproj",
         "projectName": "homewor3test",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3test\\homewor3test\\homewor3test.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3witharray\\homewor3test\\homewor3test.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3test\\homewor3test\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\EvTapsiriqlari\\homewor3witharray\\homewor3test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

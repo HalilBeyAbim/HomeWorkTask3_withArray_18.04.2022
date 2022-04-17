@@ -16,7 +16,7 @@ namespace homewor3test
                     if (i%3==0)
                     {
                         int numsize = (i / 3+1);
-                        int[] olacaq = new int[numsize];
+                        int[] size = new int[numsize];
                         Console.Write(i+" " );
                     }
                 }
@@ -29,7 +29,7 @@ namespace homewor3test
                     if (i % 5 == 0)
                     {
                         int numsize = (i / 5 + 1);
-                        int[] olacaq = new int[numsize];
+                        int[] size = new int[numsize];
                         Console.Write(i+" ");
                     }
                 }
@@ -42,7 +42,7 @@ namespace homewor3test
                     if (i % 8 == 0)
                     {
                         int numsize = (i / 8 + 1);
-                        int[] olacaq = new int[numsize];
+                        int[] size = new int[numsize];
                         Console.Write(i+ " ");
                     }
                 }
